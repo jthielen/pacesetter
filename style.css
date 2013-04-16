@@ -1,0 +1,43 @@
+/*
+Theme Name:     Pacesetter
+Theme URI:      http://www.jont.cc/periodical-beta/pacesetter/
+Description:    A modern responsive newspaper theme designed for hoofprint.net
+Author:         Jon Thielen and The hoofprint.net Team
+Author URI:     http://www.hoofprint.net
+Template:       periodical-beta
+Version:        1.0 
+*/
+
+/* Import Periodical Beta's stylesheet */
+@import url("../periodical-beta/style.css");
+
+/**
+ * Layout
+ *
+ * Breakpoints at...
+ */
+ 
+/* Typography */
+
+/** 
+ * Header
+ * 
+ * We will hide everything in the header except for the header box, and style what remains.
+ */
+ 
+/* Homepage Featured Area */
+ 
+/* Category Widgets */
+ 
+/* Archive Pages */
+ 
+/* Posts and Pages */
+ 
+/* Sidebar */
+ 
+/* Footer */
+ 
+/* Author Box */
+ 
+/* Miscellaneous */
+ 
